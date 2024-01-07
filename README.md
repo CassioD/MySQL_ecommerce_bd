@@ -1,7 +1,6 @@
 # MySQL_ecommerce_bd
-Primeiro projeto de banco de dados para o Desafio de Projeto da DIO.
 
-**Resumo**
+## Resumo
 
 Este diretório contém um projeto de banco de dados MySQL para um e-commerce. O projeto inclui três arquivos SQL:
 
@@ -9,7 +8,7 @@ Este diretório contém um projeto de banco de dados MySQL para um e-commerce. O
 * **data_insertion.sql:** Este arquivo insere alguns dados de teste nas tabelas do banco de dados.
 * **filters.sql:** Este arquivo contém as consultas SQL para buscar e filtrar os dados do banco de dados.
 
-**Instruções**
+## Instruções
 
 Para executar o projeto, siga estas instruções:
 
@@ -18,7 +17,7 @@ Para executar o projeto, siga estas instruções:
 3. Importe o arquivo `data_insertion.sql` para o banco de dados `ecommerce`.
 4. Execute as consultas SQL contidas no arquivo `filters.sql` para buscar e filtrar os dados do banco de dados.
 
-**Explicação**
+## Explicação
 
 O arquivo `Desafio de projeto ecommerce MySQL.sql` cria a estrutura do banco de dados, incluindo as seguintes tabelas:
 
